@@ -1,2 +1,2 @@
 # hello-world
-Hi i am fom SLI
+Hi i am from paradise
